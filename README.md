@@ -1,9 +1,13 @@
 # fair-of-texi
 
 --python code--
-car_type = "sedan"
-drive_range = 20
-days = 2
+
+
+
+
+car_type = str(input("Enter the Car type: "))
+drive_range = int(input("Enter the range of trip: "))
+days = int(input("How many days you want: "))
 
 if car_type == "sedan":
     fair = 1500
