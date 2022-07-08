@@ -1,6 +1,6 @@
 # fair-of-texi
 
-
+--python code--
 car_type = "sedan"
 drive_range = 20
 days = 2
